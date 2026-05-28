@@ -1,2 +1,2 @@
-# AirlinePics
+# RGPhoto
 Upload Airline Pictures
